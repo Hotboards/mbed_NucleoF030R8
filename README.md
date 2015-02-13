@@ -1,6 +1,6 @@
 # mbed_NucleoF030R8
 
-Now is easier than ever to use **mbed** library offline with eclipse and GNU ARM. In this repository you will find a eclipse project with mbed library for ST [**NucleoF072RB**](http://developer.mbed.org/platforms/ST-Nucleo-F030R8/) board.
+Now is easier than ever to use **mbed** library offline with eclipse and GNU ARM. In this repository you will find a eclipse project with mbed library for ST [**NucleoF030R8**](http://developer.mbed.org/platforms/ST-Nucleo-F030R8/) board.
 
 **Updated to:** mbed tag 93
 
